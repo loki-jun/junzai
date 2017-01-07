@@ -1,8 +1,1 @@
 baseurl: /junzai
-/junzai
-　　|--　_config.yml
-　　|--　_layouts
-　　|　　　|--　default.html 
-　　|--　_posts
-　　|　　　|--　2017-01-07-hello-world.html
-　　|--　index.html
